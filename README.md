@@ -22,4 +22,11 @@ Example:
 # License
 
 - PYFORCE is licensed under the MIT license. See the LICENSE file for details.
-- Feel free to modify it too
+- Feel free to modify it too.
+
+# Disclaimer
+
+- The author of the script is not responsible for the use of the script for illegal purposes.
+
+- Use it responsibly and only for legitimate purposes, such as authorized penetration testing.
+
