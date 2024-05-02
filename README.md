@@ -15,9 +15,9 @@
 
 Example:
 
-    ./pyforce.py http://hackingthissite.com -w Wordlist.txt -t 20
+    ./pyforce.py http://hackingthissite.org -w Wordlist.txt -t 20
 
-- This command will perform a brute force test on the ***http://hackingthissite.com target using the Wordlist.txt word list with 20 simultaneous threads.***
+- This command will perform a brute force test on the ***http://hackingthissite.org target using the Wordlist.txt word list with 20 simultaneous threads.***
 
 # License
 
